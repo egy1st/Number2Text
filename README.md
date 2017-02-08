@@ -34,7 +34,7 @@ in German will be:
 > sieben Millionen vierhunderteinunddreißigtausendzweihundertfünfundachtzig euro und sechsundvierzig cents
 
 in Arabic will be:
-> ![enter image description here](http://egy1st.com/myhub/images/num2text_arabic.jpg)
+> ![Arabic Example](http://egy1st.com/myhub/images/num2text_arabic.jpg)
 
 in Spanish will be:
 > siete millones cuatrocientos treinta y uno mil doscientos ochenta y cinco euro cuarenta y seis cents
@@ -55,7 +55,7 @@ in Turkish will be:
 > yedi milyon dört yüz otuz bir bin iki yüz seksen beş lira kırk altı kurus
 
 in Persian will be:
-> ![enter image description here](http://egy1st.com/myhub/images/num2text_persian.png)
+> ![Persian example](http://egy1st.com/myhub/images/num2text_persian.png)
 
 ### Currency Options
 Number2Text sets the currency depending on the language you choose. The default currency is dollar for the English converter, euro for French and German, and pound for Arabic. Standard fields allow you to set singular and plural units (dollar/dollars, cent/cents) and assign currency symbols ($) but still you can change them to your owns.
