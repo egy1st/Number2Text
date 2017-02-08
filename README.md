@@ -2,7 +2,7 @@
 Number2Text is a php library that converts any number into string in 10 languages.
 >For example $7431285.46 in English will be:seven million, four hundred and thirty-one thousand, two hundred and eighty-five dollars and forty-six cents
 
-![enter image description here](http://egy1st.com/myhub/images/number2text.gif)
+![Number2Text Example](http://egy1st.com/myhub/images/number2text.gif)
 
 ### Great For Banks Billing
 Number2Text is useful when making financial reports, generating bills, and printing checks. There’s no need to type in each number – just pass your digits to Number2Text and a digits translation will appears next to your figures. Since encoding is automatic, there is no room for fraud or human error.
@@ -96,4 +96,4 @@ Donate to keep this library free while it is expected to be commercial. Thanks i
 
 [![Flattr](http://button.flattr.com/flattr-badge-large.png)](https://flattr.com/submit/auto?fid=w7r2ev&url=http%3A%2F%2Fegy1st.com)
 
-[![TibMe](http//egy1st.com/myhub/images/tib-btn.png)](https://tib.me/mytibs9YhLYtrVhQkmTdbDS51H54WyrxTx)
+[![TibMe](http://egy1st.com/myhub/images/tib-btn.png)](https://tib.me/mytibs9YhLYtrVhQkmTdbDS51H54WyrxTx)
