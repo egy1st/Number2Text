@@ -74,8 +74,7 @@ in Persian will be:
 Number2Text sets the currency depending on the language you choose. The default currency is dollar for the English converter, euro for French and German, and pound for Arabic. Standard fields allow you to set singular and plural units (dollar/dollars, cent/cents) and assign currency symbols ($) but still you can change them to your owns.
 
 ### Usage Example
-<code>
-
+<pre><code>
 //include Number2Text.php file
 
 require_once "../Number2Text.php" ; 
@@ -87,13 +86,12 @@ $oTextNum = New Number2Text() ;
 // set currency names
 $oTextNum->setCurrency("dollar", "dollars", "cent", "cents")
 
-
 // send request
 $number = "785487.80" ;
 $language = 1;  // English
 $Num2Text = $oTextNum->translateNumber($number, $language) ;
 echo $Num2Text ;
-</code>
+</code></pre>
 
 
 ### Watch Video Tutorial
