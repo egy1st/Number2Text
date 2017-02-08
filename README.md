@@ -1,16 +1,3 @@
----
-title: Number2text
-published: true
-external_links:
-    process: true
-    title: false
-    no_follow: true
-    target: _blank
-    mode: active
-menu: Number2Text
-column_number: '3'
----
-
 ### What is Number2Text?
 Number2Text is a php library that converts any number into string in 10 languages.
 >For example $7431285.46 in English will be:seven million, four hundred and thirty-one thousand, two hundred and eighty-five dollars and forty-six cents
@@ -109,4 +96,4 @@ Donate to keep this library free while it is expected to be commercial. Thanks i
 
 [![Flattr](http://button.flattr.com/flattr-badge-large.png)](https://flattr.com/submit/auto?fid=w7r2ev&url=http%3A%2F%2Fegy1st.com)
 
-[![TibMe](//egy1st.com/myhub/images/tib-btn.png)](https://tib.me/mytibs9YhLYtrVhQkmTdbDS51H54WyrxTx)
+[![TibMe](http//egy1st.com/myhub/images/tib-btn.png)](https://tib.me/mytibs9YhLYtrVhQkmTdbDS51H54WyrxTx)
