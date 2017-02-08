@@ -91,7 +91,7 @@ You may give Number2text a try from [here](http://demo.egy1st.com/num2text/)
 You may view all library source files here or at other repositories where it is published.
 
 ### Donation
-500+ of development . Yes it is !!
+500+ hours of development . Yes it is !!
 Donate to keep this library free while it is expected to be commercial. Thanks in advance.
 
 [![Flattr](http://button.flattr.com/flattr-badge-large.png)](https://flattr.com/submit/auto?fid=w7r2ev&url=http%3A%2F%2Fegy1st.com)
