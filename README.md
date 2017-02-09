@@ -119,7 +119,7 @@ You may view all library source files here or at other repositories where it is 
 
 [![Flattr](http://button.flattr.com/flattr-badge-large.png)](https://flattr.com/submit/auto?fid=w7r2ev&url=http%3A%2F%2Fegy1st.com)
 
-[![TibMe](//egy1st.com/myhub/images/tib-btn.png)](https://tib.me/mytibs9YhLYtrVhQkmTdbDS51H54WyrxTx)
+[![TibMe](http://egy1st.com/myhub/images/tib-btn.png)](https://tib.me/mytibs9YhLYtrVhQkmTdbDS51H54WyrxTx)
 
 * * *
 
