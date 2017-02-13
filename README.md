@@ -77,7 +77,7 @@ Number2Text sets the currency depending on the language you choose. The default 
 2.  include file _Number2Text.php_ in your sourcecode
 3.  call function _translateNumber_ and pass two parameters to it
     1.  digits-number
-    2.  language-id , where langyage-id as listed in the follwong table
+    2.  language-id , where langyage-id as listed in the follwing table
 
 
 
